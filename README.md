@@ -1,7 +1,5 @@
-# dreamcatcher-be
-
-# GIST Computer System Course Kubernetes Project - Backend
-# Dreamcatcher : Dream Interpretation AI Service 
+# GIST Computer System Course Project - Backend
+## Dreamcatcher : Dream Interpretation AI Service 
 
 - Course: GIST Computer Systems Theory and Laboratory course (EC3102)
 - Project Type: Kubernetes AI Service Team Project
