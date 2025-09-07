@@ -3,7 +3,7 @@
 # GIST Computer System Course Kubernetes Project - Backend
 # Dreamcatcher : Dream Interpretation AI Service 
 
-- Course: GIST Object-Oriented Programming (GS2408)
+- Course: GIST Computer Systems Theory and Laboratory course (EC3102)
 - Project Type: Kubernetes AI Service Team Project
 - Team Size: 3 Members
 - This repository includes **FastAPI Backend code using OpenAI API** 
